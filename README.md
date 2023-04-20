@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket M. Ghuge 
 - 👀 I’m interested in java , python and other programming language 
 - 🌱 I have done bachelor of computer Applications(BCA) 
-- 💞️ I am pursuing MCA from DR. D. Y. Patil clg .
+- 💞️ I am pursuing MCA from DR. D. Y. Patil College 
 - 📫 I’m looking for job java developer and python developer.
 
 <!---
