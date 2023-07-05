@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aniket M. Ghuge 
-- 👀 I’m interested in java , python and other programming language 
-- 🌱 I have done bachelor of computer Applications(BCA) 
+- 👀 I’m interested in the Software Developer field in Java technologies.
+- 🌱 I have done Bachelor of Computer Applications(BCA) 
 - 💞️ I am pursuing MCA from DR. D. Y. Patil College 
-- 📫 I’m looking for job java developer and python developer.
+- 📫 I’m looking for a job as a Java developer and Python developer.
 
 <!---
 Coder9Aniket/Coder9Aniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
