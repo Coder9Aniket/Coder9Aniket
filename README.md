@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Aniket M. Ghuge 
-- 👀 I’m interested in the Software Developer field in Java technologies.
-- 🌱 I have done Bachelor of Computer Applications(BCA) 
-- 💞️ I am pursuing an MCA from DR. D. Y. Patil College 
-- 📫 I’m looking for a job role as a Full Stack Software Developer.
+- 👀 I’m working as a software developer.
+- 🌱 I completed my Bachelor's degree in Computer Applications (BCA).
+- 💞️ I completed my master’s degree at Dr. D. Y. Patil College.
+- 📫  I’m fascinated by coding and learning new technologies.
 
 <!---
 Coder9Aniket/Coder9Aniket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
